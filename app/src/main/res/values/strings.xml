@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KulizaAssignment</string>
+
+    <string name="loading">Loading …</string>
+    <string name="retry">Retry</string>
+    <string name="error_image_desc">Image for error indication</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+</resources>
